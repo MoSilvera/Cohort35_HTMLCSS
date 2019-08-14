@@ -1,0 +1,27 @@
+body {
+    background-color: darkcyan;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.mainContent {
+    display: flex;
+    flex-direction: row;
+}
+
+.leftColumn{
+    display: flex;
+    flex-direction: column;
+   margin: 30px;
+   padding: 30px;
+
+}
+
+.rightColumn{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    padding: 30px;
+}
