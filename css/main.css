@@ -5,6 +5,9 @@ body {
     display: flex;
     flex-direction: column;
     border: 1px solid black;
+    margin: .3em;
+    padding: .3em;
+    background-color:rebeccapurple;
 
 }
 
@@ -40,4 +43,17 @@ body {
 a {
     padding: .5em;
     margin: .5em;
+}
+
+.chickadees{
+   width: 10em;
+   align-self: center;
+
+
+}
+
+header {
+ 
+    display: flex;
+    flex-direction: column;
 }
